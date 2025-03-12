@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/brenda/Estudos/DoaeApi/Doae.Domain/Doae.Domain.csproj",
-      "projectName": "Doae.Domain",
-      "projectPath": "/home/brenda/Estudos/DoaeApi/Doae.Domain/Doae.Domain.csproj",
+      "projectUniqueName": "/home/brenda/Estudos/DoaeApi/Doae.Usuarios.Domain/Doae.Usuarios.Domain.csproj",
+      "projectName": "Doae.Usuarios.Domain",
+      "projectPath": "/home/brenda/Estudos/DoaeApi/Doae.Usuarios.Domain/Doae.Usuarios.Domain.csproj",
       "packagesPath": "/home/brenda/.nuget/packages/",
-      "outputPath": "/home/brenda/Estudos/DoaeApi/Doae.Domain/obj/",
+      "outputPath": "/home/brenda/Estudos/DoaeApi/Doae.Usuarios.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/brenda/.nuget/NuGet/NuGet.Config"
