@@ -7,6 +7,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8D86F70F-F85
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doae.Domain", "Doae.Domain\Doae.Domain.csproj", "{5C583772-30CC-45CA-A22D-E805B9669838}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Principal", "Principal", "{B52DED8B-A454-44A8-84F1-1D6799E0744C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Metricas", "Metricas", "{F24199F1-BBF1-4A44-B1A5-8F768699B413}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Usuarios", "Usuarios", "{BE3FAAE7-EFEE-4C10-B215-0347FF90151E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +23,9 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{5C583772-30CC-45CA-A22D-E805B9669838} = {8D86F70F-F852-4DCB-B3C4-60704372A960}
+		{B52DED8B-A454-44A8-84F1-1D6799E0744C} = {8D86F70F-F852-4DCB-B3C4-60704372A960}
+		{F24199F1-BBF1-4A44-B1A5-8F768699B413} = {8D86F70F-F852-4DCB-B3C4-60704372A960}
+		{BE3FAAE7-EFEE-4C10-B215-0347FF90151E} = {8D86F70F-F852-4DCB-B3C4-60704372A960}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{5C583772-30CC-45CA-A22D-E805B9669838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU

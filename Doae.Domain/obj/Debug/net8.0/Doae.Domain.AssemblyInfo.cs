@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Doae.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+749a5fef815caa10b87432bd7850e2c961bcbeab")]
 [assembly: System.Reflection.AssemblyProductAttribute("Doae.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Doae.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
